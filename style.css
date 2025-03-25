@@ -42,6 +42,11 @@ main p {
   text-align: center;
 }
 
+#link-to-slides {
+  text-align: center;
+  font-size: clamp(1rem, 1.5vw, 2rem);
+}
+
 #problem-nav {
   display: flex;
   flex-direction: column;
